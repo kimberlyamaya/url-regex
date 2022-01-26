@@ -1,0 +1,9 @@
+http://www.abc.com
+
+https://www.abc.com
+
+www.aabbcc.org
+
+www.aabbcc.co
+
+http://worldwideweb.com
